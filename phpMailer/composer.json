@@ -1,0 +1,15 @@
+{
+	"name"		:"administrador/php-mailer",
+    "authors"	: [
+		{
+			"name"  : "Goclases",
+			"email" : "soporte@goclases.com"
+		}
+	],
+	"autoload"	:{
+		"psr-4"	: {
+			"Libs\\" :"libs/"
+		}
+	},
+	"require"	: {}
+}
